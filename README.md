@@ -1,4 +1,4 @@
-# ParallaxWebsite
+# Project : ParallaxWebsite
 
 ### Check The Live Website➡️ [Live Website](https://parallaxpageproject.netlify.app/)
 
