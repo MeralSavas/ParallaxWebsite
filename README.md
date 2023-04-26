@@ -1,15 +1,55 @@
-# Project : ParallaxWebsite
+# Project : Parallax Website
 
-### Check The Live Website➡️ [Live Website](https://parallaxpageproject.netlify.app/)
+## Check The Live Website ➡️ [Live Website](https://parallaxpageproject.netlify.app/)
 
-### Visualization of the Website
+## Visualization of the Website
+
+![Form](https://github.com/SkyCooper/Parallax-Website/blob/main/parallax.gif)
+
+## Description
+Project aims to create parallax website.
+
+## Learning Outcomes
+
+At the end of the project, following topics are to be covered;
+
+- HTML 
+
+- List Properties
+
+- Overflow Property-The float Property-Opacity / Transparency-Units in CSS
+
+- CSS Setting height and width-CSS Outline-CSS Combinators
+
+   
+## Problem Statement
+
+- Your company has recently started on a project that aims to create a parallax website. So you and your colleagues have started to work on the project.
+
+
+## Project Skeleton 
+
+|----Parallax Website
+
+        |----index.html  
+        |----style.css   
+        |----parallax.gif
+        |----readme.md 
+
 
 ### Overview
-I mastered HTML, CSS and Java Script features in this project. You can see the visual representation of the website above.
+I mastered HTML, CSS and Javascript (fetch api) features in this project. You can see the visual representation of the website above.
 
-### Used in this project
-👉HTML tags, Comments, CSS styling, Positioning,etc.
 
-# ☺ Happy Coding ✍
+## Notes
+
+- You can use HTML,and CSS to complete this project.
+
+## Resources
+
+- 🔥 You can use [Images](./images) for your own work.
+
+
+<center> ⌛ Happy Coding  ✍ </center>
 
 
