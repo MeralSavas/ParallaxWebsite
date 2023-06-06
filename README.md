@@ -41,15 +41,10 @@ At the end of the project, following topics are to be covered;
 I mastered HTML, CSS and Javascript (fetch api) features in this project. You can see the visual representation of the website above.
 
 
-## Notes
-
-- You can use HTML,and CSS to complete this project.
-
 ## Resources
 
 - 🔥 You can use [Images](./images) for your own work.
 
 
-<center> ⌛ Happy Coding  ✍ </center>
 
 
