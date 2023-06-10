@@ -8,8 +8,6 @@
 
 ## Used Languages
 
-At the end of the project, following topics are to be covered;
-
 - HTML 
 
 - List Properties
@@ -27,10 +25,6 @@ At the end of the project, following topics are to be covered;
         |----style.css   
         |----parallax.gif
         |----readme.md 
-
-## Resources
-
-- 🔥 You can use [Images](./images) for your own work.
 
 
 
