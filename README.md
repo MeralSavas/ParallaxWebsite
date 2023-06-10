@@ -6,7 +6,7 @@
 
 ![Form](https://github.com/SkyCooper/Parallax-Website/blob/main/parallax.gif)
 
-## Learning Outcomes
+## Used Languages
 
 At the end of the project, following topics are to be covered;
 
